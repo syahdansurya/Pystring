@@ -30,3 +30,5 @@ ax.set_yticks([])
 ax.set_aspect(1)
 ax.axis('off')
 plt.savefig("Output/stringart.png",dpi=500,format="PNG")
+
+print("jancook")
